@@ -1,0 +1,7 @@
+README.md
+setup.py
+colorline/__init__.py
+colorline.egg-info/PKG-INFO
+colorline.egg-info/SOURCES.txt
+colorline.egg-info/dependency_links.txt
+colorline.egg-info/top_level.txt

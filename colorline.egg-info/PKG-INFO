@@ -1,0 +1,21 @@
+Metadata-Version: 1.2
+Name: colorline
+Version: 1.0.2
+Summary: Colorful output in command line
+Home-page: https://github.com/houluy/colorline
+Author: Houlu
+Author-email: houlu8674@bupt.edu.cn
+License: MIT
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Keywords: color
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Requires-Python: >=3
