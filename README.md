@@ -16,4 +16,4 @@ The full docs is provided [here](http://colorline.readthedocs.io/).
 
 An example:
 
-[A colorful calender](https://github.com/houluy/calender).
+[A colorful calendar](https://github.com/houluy/calendar).
