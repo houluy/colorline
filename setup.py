@@ -7,7 +7,7 @@ here = path.abspath(path.dirname(__file__))
 
 setup(
     name='colorline',
-    version='1.0.2',
+    version='1.0.3',
     description='Colorful output in command line',
     url='https://github.com/houluy/colorline',
     author='Houlu',

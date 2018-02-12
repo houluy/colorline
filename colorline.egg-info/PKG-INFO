@@ -1,12 +1,11 @@
 Metadata-Version: 1.2
 Name: colorline
-Version: 1.0.2
+Version: 1.0.3
 Summary: Colorful output in command line
 Home-page: https://github.com/houluy/colorline
 Author: Houlu
 Author-email: houlu8674@bupt.edu.cn
 License: MIT
-Description-Content-Type: UNKNOWN
 Description: UNKNOWN
 Keywords: color
 Platform: UNKNOWN
