@@ -30,6 +30,8 @@ MODE_LIST = {
 }
 
 def cprint(text, color='w', bcolor='b', mode='default', end='\n'):
+    if color not in COLOR_LIST.keys() or bcolor not in BCOLOR_LIST.keys() or mode not in MODE_LIST.keys():
+        raise ValueError('Error parameters, please refer to the document')
     print('\033[{};{};{}m'.format(MODE_LIST[mode], COLOR_LIST[color], BCOLOR_LIST[bcolor]), end=end)
     print(text, end=end)
     print('\033[0m', end=end)
