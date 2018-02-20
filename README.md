@@ -14,7 +14,7 @@ to install it.
 
 ## An example:
 
-[A colorful calendar](https://github.com/houluy/calendar).
+[A colorful calendar](https://github.com/houluy/colorcalendar).
 
 
 ## Background/Foreground color list
